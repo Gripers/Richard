@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d792486f.css",
+    "main.js": "/static/js/main.150b1089.js",
+    "static/media/ZenKakuGothicNew-Medium.ttf": "/static/media/ZenKakuGothicNew-Medium.55eb7bd7311df151cd26.ttf",
+    "static/media/ZenKakuGothicNew-Medium.woff": "/static/media/ZenKakuGothicNew-Medium.616e76e6898e844da576.woff",
+    "static/media/ZenKakuGothicNew-Medium.woff2": "/static/media/ZenKakuGothicNew-Medium.d88e685a1e5df7257519.woff2",
+    "static/media/header.png": "/static/media/header.8a5f5134ad328578eb3c.png",
+    "static/media/phones.png": "/static/media/phones.ff64ee66b25253d85e3a.png",
+    "static/media/manti.png": "/static/media/manti.003be06b229ec2983598.png",
+    "static/media/laptop.png": "/static/media/laptop.68d2a4fc01e6a15b1e1c.png",
+    "static/media/gradient-bg.png": "/static/media/gradient-bg.8b63e5bd87c313b985e0.png",
+    "static/media/hamburgers.png": "/static/media/hamburgers.a7ef3acc37813a969286.png",
+    "static/media/screen.png": "/static/media/screen.3d23056f393f802be9b4.png",
+    "static/media/display.png": "/static/media/display.a5a24816f5f8ab665215.png",
+    "static/media/food.png": "/static/media/food.c12c308b63a568281417.png",
+    "static/media/waves.png": "/static/media/waves.4b3789bf3e50149a0e9a.png",
+    "static/media/Chalkboard.eot": "/static/media/Chalkboard.1f986c7ff32b31a2fc7e.eot",
+    "static/media/Chalkboard.ttf": "/static/media/Chalkboard.00acf206a9f4e8c9c777.ttf",
+    "static/media/Chalkboard-Bold.eot": "/static/media/Chalkboard-Bold.68c7fc315473d55c8e3f.eot",
+    "static/media/Chalkboard-Bold.ttf": "/static/media/Chalkboard-Bold.99fa1ed37e5b784e2697.ttf",
+    "static/media/proccent.png": "/static/media/proccent.2a618a97a176a41d3a13.png",
+    "static/media/Chalkboard.woff": "/static/media/Chalkboard.b8fa8874d21502e58140.woff",
+    "static/media/Chalkboard-Bold.woff": "/static/media/Chalkboard-Bold.6719e18b629216d91f64.woff",
+    "static/media/Chalkboard-Bold.woff2": "/static/media/Chalkboard-Bold.a153f42ce6cc413d26ce.woff2",
+    "static/media/Chalkboard.woff2": "/static/media/Chalkboard.e04d5b565ee533025dd7.woff2",
+    "static/media/logoes.png": "/static/media/logoes.ed67b792f420fc5618d5.png",
+    "index.html": "/index.html",
+    "main.d792486f.css.map": "/static/css/main.d792486f.css.map",
+    "main.150b1089.js.map": "/static/js/main.150b1089.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d792486f.css",
+    "static/js/main.150b1089.js"
+  ]
+}
